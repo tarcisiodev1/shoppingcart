@@ -1,0 +1,17 @@
+{
+  "name": "tjporradao007/stripe",
+  "autoload": {
+    "psr-4": {
+      "app\\": "app/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Tarcisio Santos",
+      "email": "tjporradao007@gmail.com"
+    }
+  ],
+  "require": {
+    "stripe/stripe-php": "^10.3"
+  }
+}
