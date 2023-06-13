@@ -30,7 +30,7 @@ if (isset($_GET['id'])) {
 
 <body>
 
-    <a href="/index.php">Go to home</a>
+    <a href="/">Go to home</a>
 
     <ul>
         <?php if (count($productsInCart) <= 0) : ?>
